@@ -1,0 +1,17 @@
+{
+	"people":
+	 	[
+			{
+				"search_method": "district", 
+				"scan_interval": 3.1,
+				"notification_interval": 30,
+				"pincode": 783370, 
+				"district_id": 47, 
+				"search_criteria": "today", 
+				"age": 45,
+				"dose": 2,
+				"vaccine": "covaxin",
+				"api_key": "paste access token here"
+			}
+		]
+}	

@@ -1,0 +1,17 @@
+{
+	"people":
+	 	[
+			{
+				"search_method": "pincode", 
+				"scan_interval": 3.1,
+				"notification_interval": 20,
+				"pincode": 783365, 
+				"district_id": 49, 
+				"search_criteria": "week", 
+				"age": 18,
+				"dose": 1,
+				"vaccine": "covishield",
+				"api_key": "o.6gdXKshejzfh496pTiJTs9j75fXuaFt8"
+			}
+		]
+}	

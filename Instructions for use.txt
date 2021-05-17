@@ -1,0 +1,94 @@
+VACCINE SLOT NOTIFIER
+
+Made by Drishti Sunder Phukon, Ramjas College, University of Delhi, BSc. Hons. Maths
+***************************************************************************************************************************
+*It is advised to use the Arogya Setu app for slot booking, as the data on the website www.cowin.gov.in is not updated in realtime, there is a delay of 3 or 4 minutes whereas 
+the data on Arogya Setu is updated in realtime.
+--------------------------------------------------------------------------------------------------------------------------
+First things first: pre requisites for getting notifications on mobile
+i) Download PushBullet from Play Store
+ii) Make an account and allow permissions (Notification Access is required)
+iii) Open browser and go to pushbullet.com and log in with the same account
+iv) Make sure that your device name is showing up in the devices (the button with phone icon) tab on the website
+v) Go to settings (the button with cogwheel icon) on the website and click on Account
+vi) Under Access Tokens, click on Create Access Token and copy the code that appears below it
+vii) Paste the code in the api_key field in data.txt present in Vaccine Slot Notifier folder.
+---------------------------------------------------------------------------------------------------------------------------
+Testing notification:
+Run the Notification Test.exe to see if notifications are being received on the phone.
+---------------------------------------------------------------------------------------------------------------------------
+Using the program:
+*To run the program, just open Vaccine Slot Notifier.exe. No window will open when you run it, it runs in the background. However you will receive a notification on your phone stating 
+that the program is running.
+*Make sure that the computer and mobile are connected to the internet at all times and that the computer doesn't sleep.
+*To close it, open Task manager and end task for Vaccine Slot Notifier.exe
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Note: There will be no activity until slots are found, it will just run in the background. Once slots are found, notifications will arrive on the phone till the vaccines available 
+become zero. And there will be a lot of notifications in a short span of time. So make sure to stop the program from the task manager once you've booked the slot and/or 
+uninstall PushBullet app.
+
+In case of any error message, make sure that you have entered the details in data.txt correctly.
+
+You may see that the website cowin.gov.in or Arogya Setu app shows available vaccine even though this program sends no notification, this is because the website and app show total 
+count of dose 1 and dose 2 vaccines, whereas this program send notification only when the specified dose has vaccines available.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Now open data.txt and change the entries according to your preferences and save the file.
+(See sample_data_1.txt and sample_data_2.txt for examples.)
+
+The possible options given below are in the format:
+------------------------------------------
+option name: (list of possible options)	 |		
+	description			 |		
+------------------------------------------
+List of options for data.txt:
+
+search_method: (district, pincode)
+	i) district
+		Search slots by given district ID, which can be found in District List.txt
+	ii) pincode
+		Search slots by pincode
+
+scan_interval: (any positive number greater than 3)
+	Time in seconds between searches for slots. Eg- 10 will mean that the program will check for slots every 10 seconds
+	WARNING: DON'T PUT ANY NUMBER LESS THAN 3. 
+	This is because the COWIN api is limited to use of 100 calls per 5 minutes per IP, so any number less than 3 will cause the program to be blocked.
+
+notification_interval: (any positive number greater than 3)
+	Time in seconds between consecutive notifications once slot is found. Every new notification will contain updated information of vaccines available.
+
+pincode: (pincode in numbers)
+	Pincode of area to search for
+
+district_id: (id of district in number)
+	ID of the district to search for, which can be found in District List.txt
+
+search_criteria: (today, tomorrow, dd-mm-yyyy, week)
+	The method to be used to search for slots
+		i) today
+			Search for slots today
+		ii) tomorrow
+			Search for slots the next day
+		iii) dd-mm-yyyy
+			Search for slots on a specific date in the format dd-mm-yyyy
+		iv) week
+			Search for all slots in the next week
+age: (18, 45)
+	Age group to search for
+		i) 18
+			Search for 18-44 age group
+		ii) 45
+			Search for 45+ age group
+
+dose: (1, 2)
+	Specify which dose is to be searched for.
+	Note: If 1 is entered, then the program searches for both COVAXIN and COVISHIELD regardless of the choice of vaccine in the next field
+
+vaccine (covaxin, covishield)
+	Choose which vaccine is to be searched for the second dose
+
+api_key: (token string)
+	Access token obtained from pushbullet.com

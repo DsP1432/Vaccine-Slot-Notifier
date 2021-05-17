@@ -1,0 +1,793 @@
+1. State name: Andaman and Nicobar Islands
+	1. District name: Nicobar			District id: 3
+	2. District name: North and Middle Andaman			District id: 1
+	3. District name: South Andaman			District id: 2
+2. State name: Andhra Pradesh
+	1. District name: Anantapur			District id: 9
+	2. District name: Chittoor			District id: 10
+	3. District name: East Godavari			District id: 11
+	4. District name: Guntur			District id: 5
+	5. District name: Krishna			District id: 4
+	6. District name: Kurnool			District id: 7
+	7. District name: Prakasam			District id: 12
+	8. District name: Sri Potti Sriramulu Nellore			District id: 13
+	9. District name: Srikakulam			District id: 14
+	10. District name: Visakhapatnam			District id: 8
+	11. District name: Vizianagaram			District id: 15
+	12. District name: West Godavari			District id: 16
+	13. District name: YSR District, Kadapa (Cuddapah)			District id: 6
+3. State name: Arunachal Pradesh
+	1. District name: Anjaw			District id: 22
+	2. District name: Changlang			District id: 20
+	3. District name: Dibang Valley			District id: 25
+	4. District name: East Kameng			District id: 23
+	5. District name: East Siang			District id: 42
+	6. District name: Itanagar Capital Complex			District id: 17
+	7. District name: Kamle			District id: 24
+	8. District name: Kra Daadi			District id: 27
+	9. District name: Kurung Kumey			District id: 21
+	10. District name: Lepa Rada			District id: 33
+	11. District name: Lohit			District id: 29
+	12. District name: Longding			District id: 40
+	13. District name: Lower Dibang Valley			District id: 31
+	14. District name: Lower Siang			District id: 18
+	15. District name: Lower Subansiri			District id: 32
+	16. District name: Namsai			District id: 36
+	17. District name: Pakke Kessang			District id: 19
+	18. District name: Papum Pare			District id: 39
+	19. District name: Shi Yomi			District id: 35
+	20. District name: Siang			District id: 37
+	21. District name: Tawang			District id: 30
+	22. District name: Tirap			District id: 26
+	23. District name: Upper Siang			District id: 34
+	24. District name: Upper Subansiri			District id: 41
+	25. District name: West Kameng			District id: 28
+	26. District name: West Siang			District id: 38
+4. State name: Assam
+	1. District name: Baksa			District id: 46
+	2. District name: Barpeta			District id: 47
+	3. District name: Biswanath			District id: 765
+	4. District name: Bongaigaon			District id: 57
+	5. District name: Cachar			District id: 66
+	6. District name: Charaideo			District id: 766
+	7. District name: Chirang			District id: 58
+	8. District name: Darrang			District id: 48
+	9. District name: Dhemaji			District id: 62
+	10. District name: Dhubri			District id: 59
+	11. District name: Dibrugarh			District id: 43
+	12. District name: Dima Hasao			District id: 67
+	13. District name: Goalpara			District id: 60
+	14. District name: Golaghat			District id: 53
+	15. District name: Hailakandi			District id: 68
+	16. District name: Hojai			District id: 764
+	17. District name: Jorhat			District id: 54
+	18. District name: Kamrup Metropolitan			District id: 49
+	19. District name: Kamrup Rural			District id: 50
+	20. District name: Karbi-Anglong			District id: 51
+	21. District name: Karimganj			District id: 69
+	22. District name: Kokrajhar			District id: 61
+	23. District name: Lakhimpur			District id: 63
+	24. District name: Majuli			District id: 767
+	25. District name: Morigaon			District id: 55
+	26. District name: Nagaon			District id: 56
+	27. District name: Nalbari			District id: 52
+	28. District name: Sivasagar			District id: 44
+	29. District name: Sonitpur			District id: 64
+	30. District name: South Salmara Mankachar			District id: 768
+	31. District name: Tinsukia			District id: 45
+	32. District name: Udalguri			District id: 65
+	33. District name: West Karbi Anglong			District id: 769
+5. State name: Bihar
+	1. District name: Araria			District id: 74
+	2. District name: Arwal			District id: 78
+	3. District name: Aurangabad			District id: 77
+	4. District name: Banka			District id: 83
+	5. District name: Begusarai			District id: 98
+	6. District name: Bhagalpur			District id: 82
+	7. District name: Bhojpur			District id: 99
+	8. District name: Buxar			District id: 100
+	9. District name: Darbhanga			District id: 94
+	10. District name: East Champaran			District id: 105
+	11. District name: Gaya			District id: 79
+	12. District name: Gopalganj			District id: 104
+	13. District name: Jamui			District id: 107
+	14. District name: Jehanabad			District id: 91
+	15. District name: Kaimur			District id: 80
+	16. District name: Katihar			District id: 75
+	17. District name: Khagaria			District id: 101
+	18. District name: Kishanganj			District id: 76
+	19. District name: Lakhisarai			District id: 84
+	20. District name: Madhepura			District id: 70
+	21. District name: Madhubani			District id: 95
+	22. District name: Munger			District id: 85
+	23. District name: Muzaffarpur			District id: 86
+	24. District name: Nalanda			District id: 90
+	25. District name: Nawada			District id: 92
+	26. District name: Patna			District id: 97
+	27. District name: Purnia			District id: 73
+	28. District name: Rohtas			District id: 81
+	29. District name: Saharsa			District id: 71
+	30. District name: Samastipur			District id: 96
+	31. District name: Saran			District id: 102
+	32. District name: Sheikhpura			District id: 93
+	33. District name: Sheohar			District id: 87
+	34. District name: Sitamarhi			District id: 88
+	35. District name: Siwan			District id: 103
+	36. District name: Supaul			District id: 72
+	37. District name: Vaishali			District id: 89
+	38. District name: West Champaran			District id: 106
+6. State name: Chandigarh
+	1. District name: Chandigarh			District id: 108
+7. State name: Chhattisgarh
+	1. District name: Balod			District id: 110
+	2. District name: Baloda bazar			District id: 111
+	3. District name: Balrampur			District id: 112
+	4. District name: Bastar			District id: 113
+	5. District name: Bemetara			District id: 114
+	6. District name: Bijapur			District id: 115
+	7. District name: Bilaspur			District id: 116
+	8. District name: Dantewada			District id: 117
+	9. District name: Dhamtari			District id: 118
+	10. District name: Durg			District id: 119
+	11. District name: Gariaband			District id: 120
+	12. District name: Gaurela Pendra Marwahi 			District id: 136
+	13. District name: Janjgir-Champa			District id: 121
+	14. District name: Jashpur			District id: 122
+	15. District name: Kanker			District id: 123
+	16. District name: Kawardha			District id: 135
+	17. District name: Kondagaon			District id: 124
+	18. District name: Korba			District id: 125
+	19. District name: Koriya			District id: 126
+	20. District name: Mahasamund			District id: 127
+	21. District name: Mungeli			District id: 128
+	22. District name: Narayanpur			District id: 129
+	23. District name: Raigarh			District id: 130
+	24. District name: Raipur			District id: 109
+	25. District name: Rajnandgaon			District id: 131
+	26. District name: Sukma			District id: 132
+	27. District name: Surajpur			District id: 133
+	28. District name: Surguja			District id: 134
+8. State name: Dadra and Nagar Haveli
+	1. District name: Dadra and Nagar Haveli			District id: 137
+9. State name: Daman and Diu
+	1. District name: Daman			District id: 138
+	2. District name: Diu			District id: 139
+10. State name: Delhi
+	1. District name: Central Delhi			District id: 141
+	2. District name: East Delhi			District id: 145
+	3. District name: New Delhi			District id: 140
+	4. District name: North Delhi			District id: 146
+	5. District name: North East Delhi			District id: 147
+	6. District name: North West Delhi			District id: 143
+	7. District name: Shahdara			District id: 148
+	8. District name: South Delhi			District id: 149
+	9. District name: South East Delhi			District id: 144
+	10. District name: South West Delhi			District id: 150
+	11. District name: West Delhi			District id: 142
+11. State name: Goa
+	1. District name: North Goa			District id: 151
+	2. District name: South Goa			District id: 152
+12. State name: Gujarat
+	1. District name: Ahmedabad			District id: 154
+	2. District name: Ahmedabad Corporation			District id: 770
+	3. District name: Amreli			District id: 174
+	4. District name: Anand			District id: 179
+	5. District name: Aravalli			District id: 158
+	6. District name: Banaskantha			District id: 159
+	7. District name: Bharuch			District id: 180
+	8. District name: Bhavnagar			District id: 175
+	9. District name: Bhavnagar Corporation			District id: 771
+	10. District name: Botad			District id: 176
+	11. District name: Chhotaudepur			District id: 181
+	12. District name: Dahod			District id: 182
+	13. District name: Dang			District id: 163
+	14. District name: Devbhumi Dwaraka			District id: 168
+	15. District name: Gandhinagar			District id: 153
+	16. District name: Gandhinagar Corporation			District id: 772
+	17. District name: Gir Somnath			District id: 177
+	18. District name: Jamnagar			District id: 169
+	19. District name: Jamnagar Corporation			District id: 773
+	20. District name: Junagadh			District id: 178
+	21. District name: Junagadh Corporation			District id: 774
+	22. District name: Kheda			District id: 156
+	23. District name: Kutch			District id: 170
+	24. District name: Mahisagar			District id: 183
+	25. District name: Mehsana			District id: 160
+	26. District name: Morbi			District id: 171
+	27. District name: Narmada			District id: 184
+	28. District name: Navsari			District id: 164
+	29. District name: Panchmahal			District id: 185
+	30. District name: Patan			District id: 161
+	31. District name: Porbandar			District id: 172
+	32. District name: Rajkot			District id: 173
+	33. District name: Rajkot Corporation			District id: 775
+	34. District name: Sabarkantha			District id: 162
+	35. District name: Surat			District id: 165
+	36. District name: Surat Corporation			District id: 776
+	37. District name: Surendranagar			District id: 157
+	38. District name: Tapi			District id: 166
+	39. District name: Vadodara			District id: 155
+	40. District name: Vadodara Corporation			District id: 777
+	41. District name: Valsad			District id: 167
+13. State name: Haryana
+	1. District name: Ambala			District id: 193
+	2. District name: Bhiwani			District id: 200
+	3. District name: Charkhi Dadri			District id: 201
+	4. District name: Faridabad			District id: 199
+	5. District name: Fatehabad			District id: 196
+	6. District name: Gurgaon			District id: 188
+	7. District name: Hisar			District id: 191
+	8. District name: Jhajjar			District id: 189
+	9. District name: Jind			District id: 204
+	10. District name: Kaithal			District id: 190
+	11. District name: Karnal			District id: 203
+	12. District name: Kurukshetra			District id: 186
+	13. District name: Mahendragarh			District id: 206
+	14. District name: Nuh			District id: 205
+	15. District name: Palwal			District id: 207
+	16. District name: Panchkula			District id: 187
+	17. District name: Panipat			District id: 195
+	18. District name: Rewari			District id: 202
+	19. District name: Rohtak			District id: 192
+	20. District name: Sirsa			District id: 194
+	21. District name: Sonipat			District id: 198
+	22. District name: Yamunanagar			District id: 197
+14. State name: Himachal Pradesh
+	1. District name: Bilaspur			District id: 219
+	2. District name: Chamba			District id: 214
+	3. District name: Hamirpur			District id: 217
+	4. District name: Kangra			District id: 213
+	5. District name: Kinnaur			District id: 216
+	6. District name: Kullu			District id: 211
+	7. District name: Lahaul Spiti			District id: 210
+	8. District name: Mandi			District id: 215
+	9. District name: Shimla			District id: 208
+	10. District name: Sirmaur			District id: 212
+	11. District name: Solan			District id: 209
+	12. District name: Una			District id: 218
+15. State name: Jammu and Kashmir
+	1. District name: Anantnag			District id: 224
+	2. District name: Bandipore			District id: 223
+	3. District name: Baramulla			District id: 225
+	4. District name: Budgam			District id: 229
+	5. District name: Doda			District id: 232
+	6. District name: Ganderbal			District id: 228
+	7. District name: Jammu			District id: 230
+	8. District name: Kathua			District id: 234
+	9. District name: Kishtwar			District id: 231
+	10. District name: Kulgam			District id: 221
+	11. District name: Kupwara			District id: 226
+	12. District name: Poonch			District id: 238
+	13. District name: Pulwama			District id: 227
+	14. District name: Rajouri			District id: 237
+	15. District name: Ramban			District id: 235
+	16. District name: Reasi			District id: 239
+	17. District name: Samba			District id: 236
+	18. District name: Shopian			District id: 222
+	19. District name: Srinagar			District id: 220
+	20. District name: Udhampur			District id: 233
+16. State name: Jharkhand
+	1. District name: Bokaro			District id: 242
+	2. District name: Chatra			District id: 245
+	3. District name: Deoghar			District id: 253
+	4. District name: Dhanbad			District id: 257
+	5. District name: Dumka			District id: 258
+	6. District name: East Singhbhum			District id: 247
+	7. District name: Garhwa			District id: 243
+	8. District name: Giridih			District id: 256
+	9. District name: Godda			District id: 262
+	10. District name: Gumla			District id: 251
+	11. District name: Hazaribagh			District id: 255
+	12. District name: Jamtara			District id: 259
+	13. District name: Khunti			District id: 252
+	14. District name: Koderma			District id: 241
+	15. District name: Latehar			District id: 244
+	16. District name: Lohardaga			District id: 250
+	17. District name: Pakur			District id: 261
+	18. District name: Palamu			District id: 246
+	19. District name: Ramgarh			District id: 254
+	20. District name: Ranchi			District id: 240
+	21. District name: Sahebganj			District id: 260
+	22. District name: Seraikela Kharsawan			District id: 248
+	23. District name: Simdega			District id: 249
+	24. District name: West Singhbhum			District id: 263
+17. State name: Karnataka
+	1. District name: Bagalkot			District id: 270
+	2. District name: Bangalore Rural			District id: 276
+	3. District name: Bangalore Urban			District id: 265
+	4. District name: BBMP			District id: 294
+	5. District name: Belgaum			District id: 264
+	6. District name: Bellary			District id: 274
+	7. District name: Bidar			District id: 272
+	8. District name: Chamarajanagar			District id: 271
+	9. District name: Chikamagalur			District id: 273
+	10. District name: Chikkaballapur			District id: 291
+	11. District name: Chitradurga			District id: 268
+	12. District name: Dakshina Kannada			District id: 269
+	13. District name: Davanagere			District id: 275
+	14. District name: Dharwad			District id: 278
+	15. District name: Gadag			District id: 280
+	16. District name: Gulbarga			District id: 267
+	17. District name: Hassan			District id: 289
+	18. District name: Haveri			District id: 279
+	19. District name: Kodagu			District id: 283
+	20. District name: Kolar			District id: 277
+	21. District name: Koppal			District id: 282
+	22. District name: Mandya			District id: 290
+	23. District name: Mysore			District id: 266
+	24. District name: Raichur			District id: 284
+	25. District name: Ramanagara			District id: 292
+	26. District name: Shimoga			District id: 287
+	27. District name: Tumkur			District id: 288
+	28. District name: Udupi			District id: 286
+	29. District name: Uttar Kannada			District id: 281
+	30. District name: Vijayapura			District id: 293
+	31. District name: Yadgir			District id: 285
+18. State name: Kerala
+	1. District name: Alappuzha			District id: 301
+	2. District name: Ernakulam			District id: 307
+	3. District name: Idukki			District id: 306
+	4. District name: Kannur			District id: 297
+	5. District name: Kasaragod			District id: 295
+	6. District name: Kollam			District id: 298
+	7. District name: Kottayam			District id: 304
+	8. District name: Kozhikode			District id: 305
+	9. District name: Malappuram			District id: 302
+	10. District name: Palakkad			District id: 308
+	11. District name: Pathanamthitta			District id: 300
+	12. District name: Thiruvananthapuram			District id: 296
+	13. District name: Thrissur			District id: 303
+	14. District name: Wayanad			District id: 299
+19. State name: Ladakh
+	1. District name: Kargil			District id: 309
+	2. District name: Leh			District id: 310
+20. State name: Lakshadweep
+	1. District name: Agatti Island			District id: 796
+	2. District name: Lakshadweep			District id: 311
+21. State name: Madhya Pradesh
+	1. District name: Agar			District id: 320
+	2. District name: Alirajpur			District id: 357
+	3. District name: Anuppur			District id: 334
+	4. District name: Ashoknagar			District id: 354
+	5. District name: Balaghat			District id: 338
+	6. District name: Barwani			District id: 343
+	7. District name: Betul			District id: 362
+	8. District name: Bhind			District id: 351
+	9. District name: Bhopal			District id: 312
+	10. District name: Burhanpur			District id: 342
+	11. District name: Chhatarpur			District id: 328
+	12. District name: Chhindwara			District id: 337
+	13. District name: Damoh			District id: 327
+	14. District name: Datia			District id: 350
+	15. District name: Dewas			District id: 324
+	16. District name: Dhar			District id: 341
+	17. District name: Dindori			District id: 336
+	18. District name: Guna			District id: 348
+	19. District name: Gwalior			District id: 313
+	20. District name: Harda			District id: 361
+	21. District name: Hoshangabad			District id: 360
+	22. District name: Indore			District id: 314
+	23. District name: Jabalpur			District id: 315
+	24. District name: Jhabua			District id: 340
+	25. District name: Katni			District id: 353
+	26. District name: Khandwa			District id: 339
+	27. District name: Khargone			District id: 344
+	28. District name: Mandla			District id: 335
+	29. District name: Mandsaur			District id: 319
+	30. District name: Morena			District id: 347
+	31. District name: Narsinghpur			District id: 352
+	32. District name: Neemuch			District id: 323
+	33. District name: Panna			District id: 326
+	34. District name: Raisen			District id: 359
+	35. District name: Rajgarh			District id: 358
+	36. District name: Ratlam			District id: 322
+	37. District name: Rewa			District id: 316
+	38. District name: Sagar			District id: 317
+	39. District name: Satna			District id: 333
+	40. District name: Sehore			District id: 356
+	41. District name: Seoni			District id: 349
+	42. District name: Shahdol			District id: 332
+	43. District name: Shajapur			District id: 321
+	44. District name: Sheopur			District id: 346
+	45. District name: Shivpuri			District id: 345
+	46. District name: Sidhi			District id: 331
+	47. District name: Singrauli			District id: 330
+	48. District name: Tikamgarh			District id: 325
+	49. District name: Ujjain			District id: 318
+	50. District name: Umaria			District id: 329
+	51. District name: Vidisha			District id: 355
+22. State name: Maharashtra
+	1. District name: Ahmednagar			District id: 391
+	2. District name: Akola			District id: 364
+	3. District name: Amravati			District id: 366
+	4. District name: Aurangabad 			District id: 397
+	5. District name: Beed			District id: 384
+	6. District name: Bhandara			District id: 370
+	7. District name: Buldhana			District id: 367
+	8. District name: Chandrapur			District id: 380
+	9. District name: Dhule			District id: 388
+	10. District name: Gadchiroli			District id: 379
+	11. District name: Gondia			District id: 378
+	12. District name: Hingoli			District id: 386
+	13. District name: Jalgaon			District id: 390
+	14. District name: Jalna			District id: 396
+	15. District name: Kolhapur			District id: 371
+	16. District name: Latur			District id: 383
+	17. District name: Mumbai			District id: 395
+	18. District name: Nagpur			District id: 365
+	19. District name: Nanded			District id: 382
+	20. District name: Nandurbar			District id: 387
+	21. District name: Nashik			District id: 389
+	22. District name: Osmanabad			District id: 381
+	23. District name: Palghar			District id: 394
+	24. District name: Parbhani			District id: 385
+	25. District name: Pune			District id: 363
+	26. District name: Raigad			District id: 393
+	27. District name: Ratnagiri			District id: 372
+	28. District name: Sangli			District id: 373
+	29. District name: Satara			District id: 376
+	30. District name: Sindhudurg			District id: 374
+	31. District name: Solapur			District id: 375
+	32. District name: Thane			District id: 392
+	33. District name: Wardha			District id: 377
+	34. District name: Washim			District id: 369
+	35. District name: Yavatmal			District id: 368
+23. State name: Manipur
+	1. District name: Bishnupur			District id: 398
+	2. District name: Chandel			District id: 399
+	3. District name: Churachandpur			District id: 400
+	4. District name: Imphal East			District id: 401
+	5. District name: Imphal West			District id: 402
+	6. District name: Jiribam			District id: 410
+	7. District name: Kakching			District id: 413
+	8. District name: Kamjong			District id: 409
+	9. District name: Kangpokpi			District id: 408
+	10. District name: Noney			District id: 412
+	11. District name: Pherzawl			District id: 411
+	12. District name: Senapati			District id: 403
+	13. District name: Tamenglong			District id: 404
+	14. District name: Tengnoupal			District id: 407
+	15. District name: Thoubal			District id: 405
+	16. District name: Ukhrul			District id: 406
+24. State name: Meghalaya
+	1. District name: East Garo Hills			District id: 424
+	2. District name: East Jaintia Hills			District id: 418
+	3. District name: East Khasi Hills			District id: 414
+	4. District name: North Garo Hills			District id: 423
+	5. District name: Ri-Bhoi			District id: 417
+	6. District name: South Garo Hills			District id: 421
+	7. District name: South West Garo Hills			District id: 422
+	8. District name: South West Khasi Hills			District id: 415
+	9. District name: West Garo Hills			District id: 420
+	10. District name: West Jaintia Hills			District id: 416
+	11. District name: West Khasi Hills			District id: 419
+25. State name: Mizoram
+	1. District name: Aizawl East			District id: 425
+	2. District name: Aizawl West			District id: 426
+	3. District name: Champhai			District id: 429
+	4. District name: Kolasib			District id: 428
+	5. District name: Lawngtlai			District id: 432
+	6. District name: Lunglei			District id: 431
+	7. District name: Mamit			District id: 427
+	8. District name: Serchhip			District id: 430
+	9. District name: Siaha			District id: 433
+26. State name: Nagaland
+	1. District name: Dimapur			District id: 434
+	2. District name: Kiphire			District id: 444
+	3. District name: Kohima			District id: 441
+	4. District name: Longleng			District id: 438
+	5. District name: Mokokchung			District id: 437
+	6. District name: Mon			District id: 439
+	7. District name: Peren			District id: 435
+	8. District name: Phek			District id: 443
+	9. District name: Tuensang			District id: 440
+	10. District name: Wokha			District id: 436
+	11. District name: Zunheboto			District id: 442
+27. State name: Odisha
+	1. District name: Angul			District id: 445
+	2. District name: Balangir			District id: 448
+	3. District name: Balasore			District id: 447
+	4. District name: Bargarh			District id: 472
+	5. District name: Bhadrak			District id: 454
+	6. District name: Boudh			District id: 468
+	7. District name: Cuttack			District id: 457
+	8. District name: Deogarh			District id: 473
+	9. District name: Dhenkanal			District id: 458
+	10. District name: Gajapati			District id: 467
+	11. District name: Ganjam			District id: 449
+	12. District name: Jagatsinghpur			District id: 459
+	13. District name: Jajpur			District id: 460
+	14. District name: Jharsuguda			District id: 474
+	15. District name: Kalahandi			District id: 464
+	16. District name: Kandhamal			District id: 450
+	17. District name: Kendrapara			District id: 461
+	18. District name: Kendujhar			District id: 455
+	19. District name: Khurda			District id: 446
+	20. District name: Koraput			District id: 451
+	21. District name: Malkangiri			District id: 469
+	22. District name: Mayurbhanj			District id: 456
+	23. District name: Nabarangpur			District id: 470
+	24. District name: Nayagarh			District id: 462
+	25. District name: Nuapada			District id: 465
+	26. District name: Puri			District id: 463
+	27. District name: Rayagada			District id: 471
+	28. District name: Sambalpur			District id: 452
+	29. District name: Subarnapur			District id: 466
+	30. District name: Sundargarh			District id: 453
+28. State name: Puducherry
+	1. District name: Karaikal			District id: 476
+	2. District name: Mahe			District id: 477
+	3. District name: Puducherry			District id: 475
+	4. District name: Yanam			District id: 478
+29. State name: Punjab
+	1. District name: Amritsar			District id: 485
+	2. District name: Barnala			District id: 483
+	3. District name: Bathinda			District id: 493
+	4. District name: Faridkot			District id: 499
+	5. District name: Fatehgarh Sahib			District id: 484
+	6. District name: Fazilka			District id: 487
+	7. District name: Ferozpur			District id: 480
+	8. District name: Gurdaspur			District id: 489
+	9. District name: Hoshiarpur			District id: 481
+	10. District name: Jalandhar			District id: 492
+	11. District name: Kapurthala			District id: 479
+	12. District name: Ludhiana			District id: 488
+	13. District name: Mansa			District id: 482
+	14. District name: Moga			District id: 491
+	15. District name: Pathankot			District id: 486
+	16. District name: Patiala			District id: 494
+	17. District name: Rup Nagar			District id: 497
+	18. District name: Sangrur			District id: 498
+	19. District name: SAS Nagar			District id: 496
+	20. District name: SBS Nagar			District id: 500
+	21. District name: Sri Muktsar Sahib			District id: 490
+	22. District name: Tarn Taran			District id: 495
+30. State name: Rajasthan
+	1. District name: Ajmer			District id: 507
+	2. District name: Alwar			District id: 512
+	3. District name: Banswara			District id: 519
+	4. District name: Baran			District id: 516
+	5. District name: Barmer			District id: 528
+	6. District name: Bharatpur			District id: 508
+	7. District name: Bhilwara			District id: 523
+	8. District name: Bikaner			District id: 501
+	9. District name: Bundi			District id: 514
+	10. District name: Chittorgarh			District id: 521
+	11. District name: Churu			District id: 530
+	12. District name: Dausa			District id: 511
+	13. District name: Dholpur			District id: 524
+	14. District name: Dungarpur			District id: 520
+	15. District name: Hanumangarh			District id: 517
+	16. District name: Jaipur I			District id: 505
+	17. District name: Jaipur II			District id: 506
+	18. District name: Jaisalmer			District id: 527
+	19. District name: Jalore			District id: 533
+	20. District name: Jhalawar			District id: 515
+	21. District name: Jhunjhunu			District id: 510
+	22. District name: Jodhpur			District id: 502
+	23. District name: Karauli			District id: 525
+	24. District name: Kota			District id: 503
+	25. District name: Nagaur			District id: 532
+	26. District name: Pali			District id: 529
+	27. District name: Pratapgarh			District id: 522
+	28. District name: Rajsamand			District id: 518
+	29. District name: Sawai Madhopur			District id: 534
+	30. District name: Sikar			District id: 513
+	31. District name: Sirohi			District id: 531
+	32. District name: Sri Ganganagar			District id: 509
+	33. District name: Tonk			District id: 526
+	34. District name: Udaipur			District id: 504
+31. State name: Sikkim
+	1. District name: East Sikkim			District id: 535
+	2. District name: North Sikkim			District id: 537
+	3. District name: South Sikkim			District id: 538
+	4. District name: West Sikkim			District id: 536
+32. State name: Tamil Nadu
+	1. District name: Aranthangi			District id: 779
+	2. District name: Ariyalur			District id: 555
+	3. District name: Attur			District id: 578
+	4. District name: Chengalpet			District id: 565
+	5. District name: Chennai			District id: 571
+	6. District name: Cheyyar			District id: 778
+	7. District name: Coimbatore			District id: 539
+	8. District name: Cuddalore			District id: 547
+	9. District name: Dharmapuri			District id: 566
+	10. District name: Dindigul			District id: 556
+	11. District name: Erode			District id: 563
+	12. District name: Kallakurichi			District id: 552
+	13. District name: Kanchipuram			District id: 557
+	14. District name: Kanyakumari			District id: 544
+	15. District name: Karur			District id: 559
+	16. District name: Kovilpatti			District id: 780
+	17. District name: Krishnagiri			District id: 562
+	18. District name: Madurai			District id: 540
+	19. District name: Nagapattinam			District id: 576
+	20. District name: Namakkal			District id: 558
+	21. District name: Nilgiris			District id: 577
+	22. District name: Palani			District id: 564
+	23. District name: Paramakudi			District id: 573
+	24. District name: Perambalur			District id: 570
+	25. District name: Poonamallee			District id: 575
+	26. District name: Pudukkottai			District id: 546
+	27. District name: Ramanathapuram			District id: 567
+	28. District name: Ranipet			District id: 781
+	29. District name: Salem			District id: 545
+	30. District name: Sivaganga			District id: 561
+	31. District name: Sivakasi			District id: 580
+	32. District name: Tenkasi			District id: 551
+	33. District name: Thanjavur			District id: 541
+	34. District name: Theni			District id: 569
+	35. District name: Thoothukudi (Tuticorin)			District id: 554
+	36. District name: Tiruchirappalli			District id: 560
+	37. District name: Tirunelveli			District id: 548
+	38. District name: Tirupattur			District id: 550
+	39. District name: Tiruppur			District id: 568
+	40. District name: Tiruvallur			District id: 572
+	41. District name: Tiruvannamalai			District id: 553
+	42. District name: Tiruvarur			District id: 574
+	43. District name: Vellore			District id: 543
+	44. District name: Viluppuram			District id: 542
+	45. District name: Virudhunagar			District id: 549
+33. State name: Telangana
+	1. District name: Adilabad			District id: 582
+	2. District name: Bhadradri Kothagudem			District id: 583
+	3. District name: Hyderabad			District id: 581
+	4. District name: Jagtial			District id: 584
+	5. District name: Jangaon			District id: 585
+	6. District name: Jayashankar Bhupalpally			District id: 586
+	7. District name: Jogulamba Gadwal			District id: 587
+	8. District name: Kamareddy			District id: 588
+	9. District name: Karimnagar			District id: 589
+	10. District name: Khammam			District id: 590
+	11. District name: Kumuram Bheem			District id: 591
+	12. District name: Mahabubabad			District id: 592
+	13. District name: Mahabubnagar			District id: 593
+	14. District name: Mancherial			District id: 594
+	15. District name: Medak			District id: 595
+	16. District name: Medchal			District id: 596
+	17. District name: Mulugu			District id: 612
+	18. District name: Nagarkurnool			District id: 597
+	19. District name: Nalgonda			District id: 598
+	20. District name: Narayanpet			District id: 613
+	21. District name: Nirmal			District id: 599
+	22. District name: Nizamabad			District id: 600
+	23. District name: Peddapalli			District id: 601
+	24. District name: Rajanna Sircilla			District id: 602
+	25. District name: Rangareddy			District id: 603
+	26. District name: Sangareddy			District id: 604
+	27. District name: Siddipet			District id: 605
+	28. District name: Suryapet			District id: 606
+	29. District name: Vikarabad			District id: 607
+	30. District name: Wanaparthy			District id: 608
+	31. District name: Warangal(Rural)			District id: 609
+	32. District name: Warangal(Urban)			District id: 610
+	33. District name: Yadadri Bhuvanagiri			District id: 611
+34. State name: Tripura
+	1. District name: Dhalai			District id: 614
+	2. District name: Gomati			District id: 615
+	3. District name: Khowai			District id: 616
+	4. District name: North Tripura			District id: 617
+	5. District name: Sepahijala			District id: 618
+	6. District name: South Tripura			District id: 619
+	7. District name: Unakoti			District id: 620
+	8. District name: West Tripura			District id: 621
+35. State name: Uttar Pradesh
+	1. District name: Agra			District id: 622
+	2. District name: Aligarh			District id: 623
+	3. District name: Ambedkar Nagar			District id: 625
+	4. District name: Amethi			District id: 626
+	5. District name: Amroha			District id: 627
+	6. District name: Auraiya			District id: 628
+	7. District name: Ayodhya			District id: 646
+	8. District name: Azamgarh			District id: 629
+	9. District name: Badaun			District id: 630
+	10. District name: Baghpat			District id: 631
+	11. District name: Bahraich			District id: 632
+	12. District name: Balarampur			District id: 633
+	13. District name: Ballia			District id: 634
+	14. District name: Banda			District id: 635
+	15. District name: Barabanki			District id: 636
+	16. District name: Bareilly			District id: 637
+	17. District name: Basti			District id: 638
+	18. District name: Bhadohi			District id: 687
+	19. District name: Bijnour			District id: 639
+	20. District name: Bulandshahr			District id: 640
+	21. District name: Chandauli			District id: 641
+	22. District name: Chitrakoot			District id: 642
+	23. District name: Deoria			District id: 643
+	24. District name: Etah			District id: 644
+	25. District name: Etawah			District id: 645
+	26. District name: Farrukhabad			District id: 647
+	27. District name: Fatehpur			District id: 648
+	28. District name: Firozabad			District id: 649
+	29. District name: Gautam Buddha Nagar			District id: 650
+	30. District name: Ghaziabad			District id: 651
+	31. District name: Ghazipur			District id: 652
+	32. District name: Gonda			District id: 653
+	33. District name: Gorakhpur			District id: 654
+	34. District name: Hamirpur			District id: 655
+	35. District name: Hapur			District id: 656
+	36. District name: Hardoi			District id: 657
+	37. District name: Hathras			District id: 658
+	38. District name: Jalaun			District id: 659
+	39. District name: Jaunpur			District id: 660
+	40. District name: Jhansi			District id: 661
+	41. District name: Kannauj			District id: 662
+	42. District name: Kanpur Dehat			District id: 663
+	43. District name: Kanpur Nagar			District id: 664
+	44. District name: Kasganj			District id: 665
+	45. District name: Kaushambi			District id: 666
+	46. District name: Kushinagar			District id: 667
+	47. District name: Lakhimpur Kheri			District id: 668
+	48. District name: Lalitpur			District id: 669
+	49. District name: Lucknow			District id: 670
+	50. District name: Maharajganj			District id: 671
+	51. District name: Mahoba			District id: 672
+	52. District name: Mainpuri			District id: 673
+	53. District name: Mathura			District id: 674
+	54. District name: Mau			District id: 675
+	55. District name: Meerut			District id: 676
+	56. District name: Mirzapur			District id: 677
+	57. District name: Moradabad			District id: 678
+	58. District name: Muzaffarnagar			District id: 679
+	59. District name: Pilibhit			District id: 680
+	60. District name: Pratapgarh			District id: 682
+	61. District name: Prayagraj			District id: 624
+	62. District name: Raebareli			District id: 681
+	63. District name: Rampur			District id: 683
+	64. District name: Saharanpur			District id: 684
+	65. District name: Sambhal			District id: 685
+	66. District name: Sant Kabir Nagar			District id: 686
+	67. District name: Shahjahanpur			District id: 688
+	68. District name: Shamli			District id: 689
+	69. District name: Shravasti			District id: 690
+	70. District name: Siddharthnagar			District id: 691
+	71. District name: Sitapur			District id: 692
+	72. District name: Sonbhadra			District id: 693
+	73. District name: Sultanpur			District id: 694
+	74. District name: Unnao			District id: 695
+	75. District name: Varanasi			District id: 696
+36. State name: Uttarakhand
+	1. District name: Almora			District id: 704
+	2. District name: Bageshwar			District id: 707
+	3. District name: Chamoli			District id: 699
+	4. District name: Champawat			District id: 708
+	5. District name: Dehradun			District id: 697
+	6. District name: Haridwar			District id: 702
+	7. District name: Nainital			District id: 709
+	8. District name: Pauri Garhwal			District id: 698
+	9. District name: Pithoragarh			District id: 706
+	10. District name: Rudraprayag			District id: 700
+	11. District name: Tehri Garhwal			District id: 701
+	12. District name: Udham Singh Nagar			District id: 705
+	13. District name: Uttarkashi			District id: 703
+37. State name: West Bengal
+	1. District name: Alipurduar District			District id: 710
+	2. District name: Bankura			District id: 711
+	3. District name: Basirhat HD (North 24 Parganas)			District id: 712
+	4. District name: Birbhum			District id: 713
+	5. District name: Bishnupur HD (Bankura)			District id: 714
+	6. District name: Cooch Behar			District id: 715
+	7. District name: COOCHBEHAR			District id: 783
+	8. District name: Dakshin Dinajpur			District id: 716
+	9. District name: Darjeeling			District id: 717
+	10. District name: Diamond Harbor HD (S 24 Parganas)			District id: 718
+	11. District name: East Bardhaman			District id: 719
+	12. District name: Hoogly			District id: 720
+	13. District name: Howrah			District id: 721
+	14. District name: Jalpaiguri			District id: 722
+	15. District name: Jhargram			District id: 723
+	16. District name: Kalimpong			District id: 724
+	17. District name: Kolkata			District id: 725
+	18. District name: Malda			District id: 726
+	19. District name: Murshidabad			District id: 727
+	20. District name: Nadia			District id: 728
+	21. District name: Nandigram HD (East Medinipore)			District id: 729
+	22. District name: North 24 Parganas			District id: 730
+	23. District name: Paschim Medinipore			District id: 731
+	24. District name: Purba Medinipore			District id: 732
+	25. District name: Purulia			District id: 733
+	26. District name: Rampurhat HD (Birbhum)			District id: 734
+	27. District name: South 24 Parganas			District id: 735
+	28. District name: Uttar Dinajpur			District id: 736
+	29. District name: West Bardhaman			District id: 737
